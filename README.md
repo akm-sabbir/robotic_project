@@ -10,5 +10,4 @@ Task2: IR sensor input. Helped to determine any obstacle close by distance. IR w
 
 Task3: Inertial Measurement Unit gave the Raw, Pitch and Yaw. Helped to determine the orientation and map generation.
 
-How i programmed all the ports, used analog to digital conversion, interrupt signal even the board pin numbers, pin configuration
-that i can not remember. i did this project a lot of time ago.
+How i programmed all the ports, used analog to digital conversion from IR sensor response, interrupt signals, even the board pin numbers, pin configuration that i can not remember. I also dont posses the board, i can get the schemitic from internet but i really dont have time to further research on it, as i dont work on embedded system anymore.
